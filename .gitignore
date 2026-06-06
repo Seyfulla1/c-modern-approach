@@ -1,0 +1,15 @@
+*
+
+!*/
+
+!*.c
+!*.h
+!Makefile
+!README.md
+!.gitignore
+
+
+test.c
+
+
+
